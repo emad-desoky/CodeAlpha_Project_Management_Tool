@@ -1,0 +1,150 @@
+[
+  {
+    "id": "1",
+    "name": "Project Alpha",
+    "description": "A key project focusing on the alpha phase of our development.",
+    "ownerUsername": "john_doe",
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "tasks": [
+      "1",
+      "2"
+    ],
+    "members": [
+      "john_doe",
+      "jane_smith",
+      "eric_elliott",
+      "susan_lee",
+      "s",
+      "q"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Project Beta",
+    "description": "A secondary project aimed at beta testing.",
+    "ownerUsername": "jane_smith",
+    "startDate": "2024-02-01",
+    "endDate": "2024-11-30",
+    "status": "Not Started",
+    "tasks": [
+      "3"
+    ],
+    "members": [
+      "john_doe",
+      "susan_lee",
+      "s",
+      "q"
+    ]
+  },
+  {
+    "id": "a42b0afe-8056-4d42-a492-892dc23a9adb",
+    "name": "Project Gamma",
+    "description": "An experimental project with various tasks.",
+    "ownerUsername": "jane_doe",
+    "startDate": "2024-12-31",
+    "endDate": "0023-12-31",
+    "status": "In Progress",
+    "tasks": [],
+    "members": [
+      "john_doe",
+      "susan_lee",
+      "s",
+      "q"
+    ]
+  },
+  {
+    "id": "0c6658ae-e8bc-4e04-bbfa-16bbb37d3020",
+    "name": "Project Delta",
+    "description": "A completed project focusing on initial development.",
+    "startDate": "2023-01-01",
+    "endDate": "2024-12-31",
+    "status": "Completed",
+    "budget": "123,123",
+    "tasks": [],
+    "members": [
+      "john_doe",
+      "q"
+    ]
+  },
+  {
+    "id": "45657b9e-4046-4068-9306-2dbbda029689",
+    "name": "Project Epsilon",
+    "description": "A serious sample project for website creation.",
+    "startDate": "2024-12-12",
+    "endDate": "2024-12-12",
+    "status": "In Progress",
+    "budget": "1,000",
+    "tasks": [],
+    "members": [
+      "john_doe",
+      "susan_lee",
+      "s",
+      "q"
+    ]
+  },
+  {
+    "id": "9a7c1905-4965-4da0-8e1e-b822604f0d21",
+    "name": "Project Zeta",
+    "description": "An advanced project with a large budget.",
+    "ownerUsername": "john_doe",
+    "startDate": "2024-12-31",
+    "endDate": "23123-12-31",
+    "status": "In Progress",
+    "budget": "11,231",
+    "tasks": [
+      "7ad8ba5e-4a5d-407a-a992-af06ee723eab"
+    ],
+    "members": [
+      "john_doe",
+      "susan_lee",
+      "s",
+      "q"
+    ]
+  },
+  {
+    "id": "eaf539d3-0cda-4dee-b7e0-d1385d4e286e",
+    "name": "Project Eta",
+    "description": "A high-budget project for intensive tasks.",
+    "ownerUsername": "john_doe",
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "status": "In Progress",
+    "budget": "3,000",
+    "tasks": [],
+    "members": [
+      "john_doe",
+      "q"
+    ]
+  },
+  {
+    "id": "89590f8b-f2df-41d2-995e-c1bb0d4d4ded",
+    "name": "qqqq",
+    "ownerUsername": "q",
+    "description": "qqqqqqqqq",
+    "startDate": "1111-11-11",
+    "endDate": "1111-11-11",
+    "status": "In Progress",
+    "budget": 111,
+    "tasks": [
+      "a3bff19f-455c-4da3-b0db-0751fe51a3e3"
+    ],
+    "members": []
+  },
+  {
+    "id": "9a8c2cea-83ef-4f9d-9dc1-4c3b181846ab",
+    "name": "qqqqqqqqqqqqqqqqqqqqqqqqqq",
+    "ownerUsername": "q",
+    "description": "qqqqqqqqqqqqqqqqqqqqqqq",
+    "startDate": "1111-11-11",
+    "endDate": "1111-11-11",
+    "status": "In Progress",
+    "budget": 111,
+    "tasks": [
+      "3f50dd48-e21c-47ea-ba6a-42e08660c94c",
+      "365c6e7f-e1cc-416b-b6e7-3c2c23e262a2"
+    ],
+    "members": []
+  }
+]
