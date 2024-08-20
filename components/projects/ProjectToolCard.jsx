@@ -279,7 +279,7 @@ const ProjectToolCard = () => {
                       variant="subtitle1"
                       className={styles.taskHeader}
                     >
-                      PROJECT'S TASKS:
+                      PROJECT TASKS:
                     </Typography>
                     {tasks
                       .filter((t) => t.projectId === p.id)
