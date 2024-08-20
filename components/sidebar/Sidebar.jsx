@@ -19,8 +19,7 @@ import { styled } from "@mui/material/styles";
 import RegisterDialog from "./RegisterDialog";
 import LoginDialog from "./LoginDialog";
 import { useRouter } from "next/router";
-import ProjectDialog from "./projectDialog";
-import axios from "axios";
+import ProjectDialog from "./ProjectDialog";
 
 // Styled Avatar for Click Effect
 const ClickableAvatar = styled(Avatar)({
